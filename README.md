@@ -1,2 +1,4 @@
 A 2b2t server Dupe plugin
-ChickenDupe 
+Right click mark
+Chicken drop marker item
+Minecraft server 1.12.2

@@ -1,0 +1,16 @@
+name: FUNChickenDupe
+version: 1.0
+description: 右键鸡dupe
+author: bige666
+main: bige.bbttfun.FUNChickenDupe
+
+commands:
+  chickenmark:
+    description: 标记一只鸡
+    permission: chicken.dupe
+
+permissions:
+  chicken.dupe:
+    description: 允许玩家标记鸡
+    default: op
+
